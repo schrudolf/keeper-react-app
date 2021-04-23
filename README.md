@@ -2,5 +2,5 @@
 Add and removing notes
 
 # Start app
-npm install
-npm start
+- npm install
+- npm start
